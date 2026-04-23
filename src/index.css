@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors - Soft Cream & Blue Palette from Image */
+  --color-primary-blue: #9BBBD6;
+  --color-button-blue: #B4CADF;
+  --color-ink: #7F6F61;
+  --color-background: #F9F3EA;
+  --color-divider: #EFE8DE;
+  --color-card-white: #FFFFFF;
+  --color-accent-orange: #F56C17;
+  --color-soft-blue: #EAF2F8;
+
+  /* Fonts */
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+body {
+  @apply bg-background text-ink font-sans antialiased;
+}

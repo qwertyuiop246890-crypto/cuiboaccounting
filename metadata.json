@@ -1,0 +1,6 @@
+{
+  "name": "Cui Bo 記帳軟體",
+  "description": "一個全功能的記帳軟體，支持儀表板、收據明細、報稅、轉帳及設定功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Cui Bo - 記帳軟體",
+  "short_name": "Cui Bo",
+  "description": "記帳軟體",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
